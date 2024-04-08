@@ -1,0 +1,25 @@
+@keyframes animateSvg {
+    to {
+        transform: translate(-50%, -50%);
+    }
+}
+
+@keyframes ripple {
+    20% {
+        box-shadow: 0px 0px 0px 6px #fff,
+                    0px 0px 0px 8px #222;
+      }
+      
+      100% {
+        box-shadow: 0px 0px 0px 6px #fff,
+                    0px 0px 0px 8px #222,
+                    0px 0px 0px 14px #fff,
+                    0px 0px 2px 16px #888;
+      }
+}
+
+@keyframes upupdowndown {
+    to {
+        transform: translateY(-25px);
+    }
+}

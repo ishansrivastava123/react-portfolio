@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "date": "23/03/2024",
+        "title": "Techy Star",
+        "description": "This is a React application, demonstrating the routing as well as using beautiful carousel for the UI",
+        "url": "https://react-responsive-ui-mocha.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg"
+      },
+  
+      {
+        "date": "27/03/2024",
+        "title": "Video Hub",
+        "description": "This is a Video Player app built using React UI libraries like React Responsive Carousel, Framer Motion and Chakra UI",
+        "url": "https://react-video-hub-beta-two.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/18/17/47/iphone-1836071_1280.jpg"
+      },
+      {
+        "date": "02/04/2024",
+        "title": "XCrypto",
+        "description": "This is a React application, demonstrating the statistics of crypto-currencies using Chakra UI",
+        "url": "https://react-crypto-app-azure-mu.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2021/05/22/06/53/btc-6272696_1280.jpg"
+      },
+  
+      {
+        "date": "05/04/2024",
+        "title": "React Cart",
+        "description": "This is a React application using Redux to manage the state of the application globally",
+        "url": "https://react-cart-vert-seven.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2024/02/20/08/00/shopping-8584891_1280.jpg"
+      },
+      {
+        "date": "08/04/2024",
+        "title": "My Portfolio",
+        "description": "This is a React application demonstrating my portfolio and linking all the previously compiled projects in React",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/01/25/08/46/woman-1160258_1280.jpg"
+      }
+    ]
+  }
